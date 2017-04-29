@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: githubbluemix01
+  host: githubbluemix01
+  disk_quota: 1024M
